@@ -8,4 +8,6 @@ Repository of codes related to derivatives pricing:
 
 3. <strong> zcb-term-structure </strong>: code to calculate and plot the term structure of interest rates from Zero Coupon Bond prices by simulating the evolution of the short rate lattice using a binomial tree.
 
+4.<strong> swap-price </strong> : code to calculate the price of an interest rate swap using martingale pricing in a binomial tree.
+
                             
