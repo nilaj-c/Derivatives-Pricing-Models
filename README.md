@@ -10,4 +10,6 @@ Repository of codes related to derivatives pricing:
 
 4. <strong> swap-price </strong> : code to calculate the price of an interest rate swap using martingale pricing in a binomial tree.
 
+5. 4. <strong> swaption-price </strong> : code to calculate the price of a swaption (option on a swap) using martingale pricing in a binomial tree.
+
                             
