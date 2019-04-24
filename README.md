@@ -12,4 +12,6 @@ Repository of codes related to derivatives pricing:
 
 5. <strong> swaption-price </strong> : code to calculate the price of a swaption (option on a swap) using martingale pricing in a binomial tree.
 
+6. <strong> term-structure-forward-eq </strong>: code to calculate the term structure of interest rates from the prices of elementary securities (Arrow-Debreu securities) by using the forward equations.
+
                             
