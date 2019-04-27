@@ -14,4 +14,6 @@ Repository of codes related to derivatives pricing:
 
 6. <strong> term-structure-forward-eq </strong>: code to calculate the term structure of interest rates from the prices of elementary securities (Arrow-Debreu securities) by using the forward equations.
 
+7. <strong> bdt-calibration </strong>: Implementing a Black-Derman-Toy short rate model and calibrating it using market spot rate data.
+
                             
